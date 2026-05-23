@@ -14,7 +14,7 @@
 
 I'm a **game developer** from Ukraine 🇺🇦, founder of [Stone Soup Studio](https://github.com/StoneSoupStudio).  
 Passionate about building **game engines** and games from scratch.  
-Currently developing **A*Engine** — my own 2D game engine written in C#.  
+I'm currently developing **A*Engine**, a custom 2D game engine written in C# using the Monogame framework.  
 I love playing games! I also hate Python and Rust.
 
 ---
@@ -29,7 +29,7 @@ I love playing games! I also hate Python and Rust.
     </td>
     <td valign="top" width="50%">
       <h3>Tools</h3>
-      <img src="https://skillicons.dev/icons?i=visualstudio,rider,dotnet,git&perline=8" />
+      <img src="https://skillicons.dev/icons?i=visualstudio,rider,dotnet,git,monogame&perline=8" />
     </td>
   </tr>
 </table>
