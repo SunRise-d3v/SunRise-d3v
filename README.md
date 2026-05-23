@@ -40,7 +40,7 @@ I love playing games! I also hate Python and Rust.
 
 | Project | Description | Stack |
 |---|---|---|
-| Stone Soup Studio | Indie game studio | C# |
+| [Stone Soup Studio](https://github.com/StoneSoupStudio) | Indie game studio | C#, Java, Lua |
 | [A*Engine](https://github.com/SunRise-d3v/A-Engine) | Custom 2D game engine | C#, MonoGame |
 
 ---
