@@ -15,19 +15,9 @@ I'm interested in developing game engines and games. I love playing games! I als
   <summary><h2><b>My stack</b></h2></summary>
   <p>
     <h3>Langs</h3>
-    <img src="https://skillicons.dev/icons?i=dotnet,cs,cpp,java&perline=7" />
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,cpp,java,lua&perline=7" />
     <h3>Software</h3>
     <img src="https://skillicons.dev/icons?i=visualstudio,rider&perline=7" />
     <br>
-  </p>
-</details>
-
-
-<details align="left">
-  <summary><h2><b>⭐GitHub stats</b></h2></summary>
-  <p>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaggerFast&theme=dracula&layout=compact&hide_border=true&bg_color=00000000" />
-   <br>
-   <img src="https://github-readme-stats.vercel.app/api?username=BaggerFast&count_private=true&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000" />
   </p>
 </details>
