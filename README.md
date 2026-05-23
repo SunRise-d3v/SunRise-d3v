@@ -6,7 +6,7 @@
 
 ## About me
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://tlgg.org/SunRise_d3v)
-[![YouTube]([https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/c/baggerfast](https://www.youtube.com/@StoneSoupStudio))
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@StoneSoupStudio))
 
 I'm a game developer from Ukraine, working in... [Stone Soup Studio](https://github.com/StoneSoupStudio).
 I'm interested in developing game engines and games. I love playing games! I also hate Python and Rust.
