@@ -14,8 +14,8 @@
 
 I'm a **game developer** from Ukraine 🇺🇦, founder of [Stone Soup Studio](https://github.com/StoneSoupStudio).  
 Passionate about building **game engines** and games from scratch.  
-Currently developing **AEngine** — my own 2D game engine written in C#.  
-I love playing games. I strongly dislike Python and Rust 🙂
+Currently developing **A*Engine** — my own 2D game engine written in C#.  
+I love playing games! I also hate Python and Rust.
 
 ---
 
@@ -40,7 +40,7 @@ I love playing games. I strongly dislike Python and Rust 🙂
 
 | Project | Description | Stack |
 |---|---|---|
-| [AEngine](https://github.com/StoneSoupStudio) | Custom 2D game engine | C#, MonoGame |
+| [A*Engine](https://github.com/StoneSoupStudio) | Custom 2D game engine | C#, MonoGame |
 | Stone Soup Studio | Indie game studio | C# |
 
 ---
