@@ -29,7 +29,8 @@ I love playing games! I also hate Python and Rust.
     </td>
     <td valign="top" width="50%">
       <h3>Tools</h3>
-      <img src="https://skillicons.dev/icons?i=visualstudio,rider,dotnet,git,monogame&perline=8" />
+      <img src="https://skillicons.dev/icons?i=visualstudio,rider,dotnet,git&perline=8" />
+      <img src="https://img.shields.io/badge/-MonoGame-E73C00?style=flat&logo=monogame&logoColor=white"/>
     </td>
   </tr>
 </table>
