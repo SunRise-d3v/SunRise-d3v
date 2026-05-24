@@ -4,7 +4,7 @@
   <img width="600" src="Assets/github-snake.svg" alt="snake"/>
 </p>
 
----/
+---
 
 ## 👤 About me
 
