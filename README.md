@@ -19,7 +19,7 @@ I love playing games! I also hate Python and Rust.
 
 ---
 
-## 🛠 Stack
+## Stack
 
 <table>
   <tr>
@@ -38,7 +38,7 @@ I love playing games! I also hate Python and Rust.
 
 ---
 
-## 📚 Projects
+## Projects
 
 | Project | Description | Stack |
 |---|---|---|
